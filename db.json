@@ -1,3 +1,11 @@
 {
-"test1":[1,2,3];
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
